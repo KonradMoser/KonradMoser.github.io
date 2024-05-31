@@ -6,6 +6,12 @@ body {
     border-color: blueviolet;
     border-style: solid;
   }
+  h2{
+    color: green;
+  }
+  h3{
+    color: rgb(35, 54, 5);
+  }
   p {
-    color: rgb(207, 61, 12);
+    color: rgb(0, 0, 0);
   }
