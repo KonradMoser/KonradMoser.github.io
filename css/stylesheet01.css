@@ -17,5 +17,11 @@ body {
   }
   p {
     color: rgb(0, 0, 0);
-    background-color: rgb(216, 237, 80);
+    text-align:justify;
+    background-color:rgb(163, 248, 248);
+    column-count: 2;
+  }
+  ul {
+    border-width: 2px;
+    border-style: groove;
   }
