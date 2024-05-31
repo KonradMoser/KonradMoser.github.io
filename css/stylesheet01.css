@@ -3,6 +3,8 @@ body {
   }
   h1 {
     color: blue;
+    border-color: blueviolet;
+    border-style: dotted;
   }
   p {
     color: rgb(207, 61, 12);
