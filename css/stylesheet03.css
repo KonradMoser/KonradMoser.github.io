@@ -10,3 +10,9 @@ header
  .banner img {
     max-width: 100%;
  }
+ .banner .welcome 
+ {
+    position: absolute;
+    left:0;
+    top 200px;
+}
