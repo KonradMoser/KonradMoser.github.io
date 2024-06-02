@@ -11,7 +11,7 @@ header
     max-width: 100%;
  }
  
- .banner welcome {
+ .banner #welcome {
     background-color: blueviolet;
     position: absolute;
     left:0;
