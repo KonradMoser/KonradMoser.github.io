@@ -14,7 +14,7 @@ header
  .banner .welcome 
  {
     background-color: blueviolet;
-    position: absolute;
+    position: relative;
     left:0;
     top 30%;
 }
