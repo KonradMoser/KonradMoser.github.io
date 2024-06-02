@@ -4,11 +4,10 @@ header
  }
 .banner
  { 
-    position: relative;
+    position: absolute;
 
  }
  .banner img {
-    position: absolute;
     max-width: 100%;
  }
  
