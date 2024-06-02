@@ -1,6 +1,8 @@
 header
  { 
-    
+   background-color: #f63232; 
+   padding: 20px;   
+   text-align: center;
  }
 .banner
  { 
